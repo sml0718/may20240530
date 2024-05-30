@@ -1,0 +1,725 @@
+2024-05-10 11:14:23 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 103276 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 11:14:23 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 103276 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 11:14:23 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 11:14:23 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 11:14:23 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 11:14:23 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 11:14:23 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 11:14:23 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 11:14:24 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 11:14:24 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 11:14:24 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 11:14:24 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 11:14:24 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 11:14:24 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1400 ms
+2024-05-10 11:14:25 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 11:14:25 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 11:14:25 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 11:14:25 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.789 seconds (process running for 3.882)
+2024-05-10 11:14:25 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.789 seconds (process running for 3.882)
+2024-05-10 11:20:28 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-10 11:20:28 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 11:36:07 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 116892 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 11:36:07 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 116892 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 11:36:07 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 11:36:07 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 11:36:07 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 11:36:07 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 11:36:07 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 11:36:07 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 11:36:08 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 11:36:08 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 11:36:08 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 11:36:08 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 11:36:08 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 11:36:08 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1744 ms
+2024-05-10 11:36:09 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 11:36:09 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 11:36:09 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 11:36:09 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 3.19 seconds (process running for 4.384)
+2024-05-10 11:36:09 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 3.19 seconds (process running for 4.384)
+2024-05-10 11:36:13 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-10 11:36:13 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:19:24 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 101332 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:19:24 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 101332 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:19:24 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:19:24 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:19:24 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:19:24 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:19:24 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 16:19:24 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 16:19:26 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 16:19:26 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:19:26 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 16:19:26 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 16:19:26 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 16:19:26 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1644 ms
+2024-05-10 16:19:27 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 16:19:27 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:19:27 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 16:19:27 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 3.016 seconds (process running for 4.25)
+2024-05-10 16:19:27 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 3.016 seconds (process running for 4.25)
+2024-05-10 16:25:55 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-10 16:25:55 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:25:57 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 104824 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:25:57 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 104824 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:25:57 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:25:57 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:25:58 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:25:58 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:25:58 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 16:25:58 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 16:25:59 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 16:25:59 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:25:59 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 16:25:59 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 16:25:59 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 16:25:59 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1324 ms
+2024-05-10 16:26:00 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 16:26:00 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:26:00 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 16:26:00 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.567 seconds (process running for 3.645)
+2024-05-10 16:26:00 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.567 seconds (process running for 3.645)
+2024-05-10 16:27:16 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 16:27:16 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-10 16:27:16 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 2 ms
+2024-05-10 16:49:19 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 106488 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:49:19 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 106488 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:49:19 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:49:19 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:49:19 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:49:19 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:49:19 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 16:49:19 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 16:49:20 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 16:49:20 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:49:20 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 16:49:20 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 16:49:20 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 16:49:20 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1167 ms
+2024-05-10 16:49:21 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 16:49:21 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:49:21 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 16:49:21 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.319 seconds (process running for 3.267)
+2024-05-10 16:49:21 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.319 seconds (process running for 3.267)
+2024-05-10 16:52:48 - o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-10 16:52:48 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:52:48 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 106488 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:52:48 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 106488 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:52:48 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:52:48 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:52:48 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:52:48 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:52:49 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 16:52:49 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:52:49 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 16:52:49 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 16:52:49 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 16:52:49 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 767 ms
+2024-05-10 16:52:49 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 16:52:49 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:52:49 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 16:52:49 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 1.011 seconds (process running for 211.151)
+2024-05-10 16:52:49 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 1.011 seconds (process running for 211.151)
+2024-05-10 16:52:49 - o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - INFO - Condition evaluation unchanged
+2024-05-10 16:53:42 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-10 16:53:42 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:53:44 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 97204 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:53:44 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 97204 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:53:44 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:53:44 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:53:44 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:53:44 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:53:45 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 16:53:45 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 16:53:46 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 16:53:46 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:53:46 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 16:53:46 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 16:53:46 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 16:53:46 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1601 ms
+2024-05-10 16:53:47 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 16:53:47 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:53:47 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 16:53:47 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 3.444 seconds (process running for 4.649)
+2024-05-10 16:53:47 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 3.444 seconds (process running for 4.649)
+2024-05-10 16:54:14 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 16:54:14 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-10 16:54:14 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 1 ms
+2024-05-10 16:54:15 - org.thymeleaf.TemplateEngine - ERROR - [THYMELEAF][http-nio-20252-exec-1] Exception processing template "login": An error happened during template parsing (template: "class path resource [templates/login.html]" - line 50, col 85)
+org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: "class path resource [templates/login.html]" - line 50, col 85)
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:239)
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parseStandalone(AbstractMarkupTemplateParser.java:100)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:666)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1103)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1077)
+	at org.thymeleaf.spring6.view.ThymeleafView.renderFragment(ThymeleafView.java:372)
+	at org.thymeleaf.spring6.view.ThymeleafView.render(ThymeleafView.java:192)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1431)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: org.attoparser.ParseException: (Line = 50, Column = 85) Malformed markup: Attribute "name" appears more than once in element
+	at org.attoparser.MarkupEventProcessorHandler.handleAttribute(MarkupEventProcessorHandler.java:549)
+	at org.attoparser.ParsingAttributeSequenceUtil.parseAttributeSequence(ParsingAttributeSequenceUtil.java:275)
+	at org.attoparser.ParsingElementMarkupUtil.parseStandaloneElement(ParsingElementMarkupUtil.java:90)
+	at org.attoparser.MarkupParser.parseBuffer(MarkupParser.java:706)
+	at org.attoparser.MarkupParser.parseDocument(MarkupParser.java:301)
+	at org.attoparser.MarkupParser.parse(MarkupParser.java:257)
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:230)
+	... 48 common frames omitted
+2024-05-10 16:54:15 - o.a.c.c.C.[.[.[.[dispatcherServlet] - ERROR - Servlet.service() for servlet [dispatcherServlet] in context with path [/empthymeleaf] threw exception [Request processing failed: org.thymeleaf.exceptions.TemplateInputException: An error happened during template parsing (template: "class path resource [templates/login.html]" - line 50, col 85)] with root cause
+org.attoparser.ParseException: (Line = 50, Column = 85) Malformed markup: Attribute "name" appears more than once in element
+	at org.attoparser.MarkupEventProcessorHandler.handleAttribute(MarkupEventProcessorHandler.java:549)
+	at org.attoparser.ParsingAttributeSequenceUtil.parseAttributeSequence(ParsingAttributeSequenceUtil.java:275)
+	at org.attoparser.ParsingElementMarkupUtil.parseStandaloneElement(ParsingElementMarkupUtil.java:90)
+	at org.attoparser.MarkupParser.parseBuffer(MarkupParser.java:706)
+	at org.attoparser.MarkupParser.parseDocument(MarkupParser.java:301)
+	at org.attoparser.MarkupParser.parse(MarkupParser.java:257)
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parse(AbstractMarkupTemplateParser.java:230)
+	at org.thymeleaf.templateparser.markup.AbstractMarkupTemplateParser.parseStandalone(AbstractMarkupTemplateParser.java:100)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:666)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1103)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1077)
+	at org.thymeleaf.spring6.view.ThymeleafView.renderFragment(ThymeleafView.java:372)
+	at org.thymeleaf.spring6.view.ThymeleafView.render(ThymeleafView.java:192)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1431)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-05-10 16:56:30 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-10 16:56:30 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-10 16:56:30 - org.thymeleaf.TemplateEngine - ERROR - [THYMELEAF][http-nio-20252-exec-3] Exception processing template "user/login": Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1103)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1077)
+	at org.thymeleaf.spring6.view.ThymeleafView.renderFragment(ThymeleafView.java:372)
+	at org.thymeleaf.spring6.view.ThymeleafView.render(ThymeleafView.java:192)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1431)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-05-10 16:56:30 - o.a.c.c.C.[.[.[.[dispatcherServlet] - ERROR - Servlet.service() for servlet [dispatcherServlet] in context with path [/empthymeleaf] threw exception [Request processing failed: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1103)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1077)
+	at org.thymeleaf.spring6.view.ThymeleafView.renderFragment(ThymeleafView.java:372)
+	at org.thymeleaf.spring6.view.ThymeleafView.render(ThymeleafView.java:192)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1431)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-05-10 16:58:07 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-10 16:58:07 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:58:10 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 116532 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:58:10 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 116532 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:58:10 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:58:10 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:58:10 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:58:10 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:58:10 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 16:58:10 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 16:58:11 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 16:58:11 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:58:11 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 16:58:11 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 16:58:11 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 16:58:11 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1348 ms
+2024-05-10 16:58:12 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 16:58:12 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:58:12 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 16:58:12 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.6 seconds (process running for 3.612)
+2024-05-10 16:58:12 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.6 seconds (process running for 3.612)
+2024-05-10 16:58:18 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 16:58:18 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-10 16:58:18 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 1 ms
+2024-05-10 16:58:23 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-10 16:58:23 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-10 16:58:23 - org.thymeleaf.TemplateEngine - ERROR - [THYMELEAF][http-nio-20252-exec-10] Exception processing template "user/login": Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1103)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1077)
+	at org.thymeleaf.spring6.view.ThymeleafView.renderFragment(ThymeleafView.java:372)
+	at org.thymeleaf.spring6.view.ThymeleafView.render(ThymeleafView.java:192)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1431)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-05-10 16:58:23 - o.a.c.c.C.[.[.[.[dispatcherServlet] - ERROR - Servlet.service() for servlet [dispatcherServlet] in context with path [/empthymeleaf] threw exception [Request processing failed: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1103)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1077)
+	at org.thymeleaf.spring6.view.ThymeleafView.renderFragment(ThymeleafView.java:372)
+	at org.thymeleaf.spring6.view.ThymeleafView.render(ThymeleafView.java:192)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1431)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-05-10 16:59:44 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-10 16:59:44 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:59:47 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 110896 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:59:47 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 110896 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 16:59:47 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:59:47 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 16:59:47 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:59:47 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 16:59:47 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 16:59:47 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 16:59:48 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 16:59:48 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:59:48 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 16:59:48 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 16:59:48 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 16:59:48 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1337 ms
+2024-05-10 16:59:49 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 16:59:49 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 16:59:49 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 16:59:49 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.573 seconds (process running for 3.585)
+2024-05-10 16:59:49 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.573 seconds (process running for 3.585)
+2024-05-10 16:59:55 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 16:59:55 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-10 16:59:55 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 1 ms
+2024-05-10 17:00:04 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-10 17:00:04 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-10 17:00:04 - org.thymeleaf.TemplateEngine - ERROR - [THYMELEAF][http-nio-20252-exec-7] Exception processing template "user/login": Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1103)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1077)
+	at org.thymeleaf.spring6.view.ThymeleafView.renderFragment(ThymeleafView.java:372)
+	at org.thymeleaf.spring6.view.ThymeleafView.render(ThymeleafView.java:192)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1431)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-05-10 17:00:04 - o.a.c.c.C.[.[.[.[dispatcherServlet] - ERROR - Servlet.service() for servlet [dispatcherServlet] in context with path [/empthymeleaf] threw exception [Request processing failed: org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers] with root cause
+org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers
+	at org.thymeleaf.engine.TemplateManager.resolveTemplate(TemplateManager.java:869)
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:607)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1103)
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1077)
+	at org.thymeleaf.spring6.view.ThymeleafView.renderFragment(ThymeleafView.java:372)
+	at org.thymeleaf.spring6.view.ThymeleafView.render(ThymeleafView.java:192)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1431)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1106)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-05-10 17:02:07 - o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-10 17:02:07 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:02:07 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 110896 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 17:02:07 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 110896 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 17:02:07 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 17:02:07 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 17:02:07 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 17:02:07 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 17:02:07 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 17:02:07 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:02:07 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 17:02:07 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 17:02:07 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 17:02:07 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 244 ms
+2024-05-10 17:02:07 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 17:02:07 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:02:07 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 17:02:07 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 0.417 seconds (process running for 142.006)
+2024-05-10 17:02:07 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 0.417 seconds (process running for 142.006)
+2024-05-10 17:02:07 - o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - INFO - Condition evaluation unchanged
+2024-05-10 17:02:11 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-10 17:02:11 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:02:14 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 95208 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 17:02:14 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 95208 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 17:02:14 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 17:02:14 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 17:02:14 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 17:02:14 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 17:02:14 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 17:02:14 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 17:02:15 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 17:02:15 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:02:15 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 17:02:15 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 17:02:15 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 17:02:15 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1304 ms
+2024-05-10 17:02:16 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 17:02:16 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:02:16 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 17:02:16 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.696 seconds (process running for 3.696)
+2024-05-10 17:02:16 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.696 seconds (process running for 3.696)
+2024-05-10 17:02:19 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 17:02:19 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-10 17:02:19 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 1 ms
+2024-05-10 17:02:25 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-10 17:02:25 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-10 17:03:26 - o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-10 17:03:26 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:03:26 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 95208 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 17:03:26 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 95208 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 17:03:26 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 17:03:26 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 17:03:26 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 17:03:26 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 17:03:26 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 17:03:26 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:03:26 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 17:03:26 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 17:03:26 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 17:03:26 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 302 ms
+2024-05-10 17:03:26 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 17:03:26 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:03:26 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 17:03:26 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 0.501 seconds (process running for 74.208)
+2024-05-10 17:03:26 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 0.501 seconds (process running for 74.208)
+2024-05-10 17:03:26 - o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - INFO - Condition evaluation unchanged
+2024-05-10 17:03:30 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 17:03:30 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-10 17:03:30 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 0 ms
+2024-05-10 17:03:35 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-10 17:03:35 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-10 17:04:56 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-10 17:04:56 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:32:35 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 113860 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 17:32:35 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 113860 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-10 17:32:35 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 17:32:35 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-10 17:32:35 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 17:32:35 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-10 17:32:35 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-10 17:32:35 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-10 17:32:36 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-10 17:32:36 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:32:36 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-10 17:32:36 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-10 17:32:36 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-10 17:32:36 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 896 ms
+2024-05-10 17:32:37 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-10 17:32:37 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-10 17:32:37 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-10 17:32:37 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 1.757 seconds (process running for 2.47)
+2024-05-10 17:32:37 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 1.757 seconds (process running for 2.47)
+2024-05-10 17:32:44 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-10 17:32:44 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-10 17:32:44 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 1 ms
+2024-05-10 17:33:02 - com.eden.controller.UserController - INFO - ユーザー名:444,パスワード:111
+2024-05-10 17:33:02 - com.eden.controller.UserController - INFO - ユーザー名:444,パスワード:111
+2024-05-10 17:33:02 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Starting...
+2024-05-10 17:33:03 - com.zaxxer.hikari.pool.HikariPool - INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1fd92ee0
+2024-05-10 17:33:03 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Start completed.
+2024-05-10 17:33:03 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-10 17:33:03 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-10 17:33:03 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: 444(String)
+2024-05-10 17:33:03 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: 444(String)
+2024-05-10 17:33:03 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 0
+2024-05-10 17:33:03 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 0

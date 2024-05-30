@@ -1,0 +1,51 @@
+2024-05-09 14:52:36 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 99884 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-09 14:52:36 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 99884 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-09 14:52:36 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-09 14:52:36 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-09 14:52:36 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-09 14:52:36 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-09 14:52:36 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-09 14:52:36 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-09 14:52:37 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-09 14:52:37 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-09 14:52:37 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-09 14:52:37 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09 14:52:37 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-09 14:52:37 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1411 ms
+2024-05-09 14:52:38 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-09 14:52:38 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-09 14:52:38 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-09 14:52:38 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.634 seconds (process running for 3.737)
+2024-05-09 14:52:38 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.634 seconds (process running for 3.737)
+2024-05-09 14:52:59 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-09 14:52:59 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-09 14:52:59 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 1 ms
+2024-05-09 14:53:17 - com.eden.controller.UserController - INFO - ユーザー名:xiaou,名前:11,パスワード:123,性別:true,検証コード:ckgr
+2024-05-09 14:53:17 - com.eden.controller.UserController - INFO - ユーザー名:xiaou,名前:11,パスワード:123,性別:true,検証コード:ckgr
+2024-05-09 14:53:17 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Starting...
+2024-05-09 14:53:17 - com.zaxxer.hikari.pool.HikariPool - INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@50539d04
+2024-05-09 14:53:17 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Start completed.
+2024-05-09 14:53:17 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-09 14:53:17 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-09 14:53:17 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: xiaou(String)
+2024-05-09 14:53:17 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: xiaou(String)
+2024-05-09 14:53:17 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 0
+2024-05-09 14:53:17 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 0
+2024-05-09 14:53:17 - com.eden.dao.UserDao.save - DEBUG - ==>  Preparing: insert into `user` values(?,?,?,?,?)
+2024-05-09 14:53:17 - com.eden.dao.UserDao.save - DEBUG - ==>  Preparing: insert into `user` values(?,?,?,?,?)
+2024-05-09 14:53:17 - com.eden.dao.UserDao.save - DEBUG - ==> Parameters: null, xiaou(String), 11(String), 202cb962ac59075b964b07152d234b70(String), true(Boolean)
+2024-05-09 14:53:17 - com.eden.dao.UserDao.save - DEBUG - ==> Parameters: null, xiaou(String), 11(String), 202cb962ac59075b964b07152d234b70(String), true(Boolean)
+2024-05-09 14:53:17 - com.eden.dao.UserDao.save - DEBUG - <==    Updates: 1
+2024-05-09 14:53:17 - com.eden.dao.UserDao.save - DEBUG - <==    Updates: 1
+2024-05-09 14:53:45 - com.eden.controller.UserController - INFO - ユーザー名:xiaou,名前:11,パスワード:123,性別:true,検証コード:f3ad
+2024-05-09 14:53:45 - com.eden.controller.UserController - INFO - ユーザー名:xiaou,名前:11,パスワード:123,性別:true,検証コード:f3ad
+2024-05-09 14:53:45 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-09 14:53:45 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-09 14:53:45 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: xiaou(String)
+2024-05-09 14:53:45 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: xiaou(String)
+2024-05-09 14:53:45 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 1
+2024-05-09 14:53:45 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 1
+2024-05-09 16:17:25 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-09 16:17:25 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-09 16:17:25 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Shutdown initiated...
+2024-05-09 16:17:25 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Shutdown completed.

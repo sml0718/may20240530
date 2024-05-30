@@ -1,0 +1,41 @@
+2024-05-09T13:50:16.309+09:00  INFO 45124 --- [restartedMain] com.eden.EmphtmlApplication              : Starting EmphtmlApplication using Java 17.0.10 with PID 45124 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-09T13:50:16.309+09:00 DEBUG 45124 --- [restartedMain] com.eden.EmphtmlApplication              : Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-09T13:50:16.309+09:00  INFO 45124 --- [restartedMain] com.eden.EmphtmlApplication              : No active profile set, falling back to 1 default profile: "default"
+2024-05-09T13:50:16.512+09:00  INFO 45124 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 20252 (http)
+2024-05-09T13:50:16.513+09:00  INFO 45124 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-09T13:50:16.514+09:00  INFO 45124 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09T13:50:16.529+09:00  INFO 45124 --- [restartedMain] o.a.c.c.C.[.[localhost].[/empthymeleaf]  : Initializing Spring embedded WebApplicationContext
+2024-05-09T13:50:16.529+09:00  INFO 45124 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 218 ms
+2024-05-09T13:50:16.643+09:00  INFO 45124 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-09T13:50:16.652+09:00  INFO 45124 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-09T13:50:16.658+09:00  INFO 45124 --- [restartedMain] com.eden.EmphtmlApplication              : Started EmphtmlApplication in 0.376 seconds (process running for 150.897)
+2024-05-09T13:50:16.663+09:00  INFO 45124 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-09T13:55:27.857+09:00  INFO 45124 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2024-05-09T13:55:27.952+09:00  INFO 45124 --- [restartedMain] com.eden.EmphtmlApplication              : Starting EmphtmlApplication using Java 17.0.10 with PID 45124 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-09T13:55:27.952+09:00 DEBUG 45124 --- [restartedMain] com.eden.EmphtmlApplication              : Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-09T13:55:27.953+09:00  INFO 45124 --- [restartedMain] com.eden.EmphtmlApplication              : No active profile set, falling back to 1 default profile: "default"
+2024-05-09T13:55:28.341+09:00  INFO 45124 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 20252 (http)
+2024-05-09T13:55:28.343+09:00  INFO 45124 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-09T13:55:28.344+09:00  INFO 45124 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09T13:55:28.378+09:00  INFO 45124 --- [restartedMain] o.a.c.c.C.[.[localhost].[/empthymeleaf]  : Initializing Spring embedded WebApplicationContext
+2024-05-09T13:55:28.379+09:00  INFO 45124 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 424 ms
+2024-05-09T13:55:28.547+09:00  WARN 45124 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+2024-05-09T13:55:28.583+09:00  INFO 45124 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-09T13:55:28.600+09:00  INFO 45124 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-09T13:55:28.607+09:00  INFO 45124 --- [restartedMain] com.eden.EmphtmlApplication              : Started EmphtmlApplication in 0.68 seconds (process running for 462.846)
+2024-05-09T13:55:28.609+09:00  INFO 45124 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-09T13:55:30.002+09:00  INFO 45124 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 33 class path changes (0 additions, 25 deletions, 8 modifications)
+2024-05-09T13:59:16.499+09:00  INFO 107984 --- [restartedMain] com.eden.EmphtmlApplication              : Starting EmphtmlApplication using Java 17.0.10 with PID 107984 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-09T13:59:16.501+09:00 DEBUG 107984 --- [restartedMain] com.eden.EmphtmlApplication              : Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-09T13:59:16.502+09:00  INFO 107984 --- [restartedMain] com.eden.EmphtmlApplication              : No active profile set, falling back to 1 default profile: "default"
+2024-05-09T13:59:16.571+09:00  INFO 107984 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-09T13:59:16.571+09:00  INFO 107984 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-09T13:59:17.891+09:00  INFO 107984 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 20252 (http)
+2024-05-09T13:59:17.904+09:00  INFO 107984 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-09T13:59:17.904+09:00  INFO 107984 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-09T13:59:17.968+09:00  INFO 107984 --- [restartedMain] o.a.c.c.C.[.[localhost].[/empthymeleaf]  : Initializing Spring embedded WebApplicationContext
+2024-05-09T13:59:17.969+09:00  INFO 107984 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1397 ms
+2024-05-09T13:59:18.664+09:00  INFO 107984 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-09T13:59:18.711+09:00  INFO 107984 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-09T13:59:18.724+09:00  INFO 107984 --- [restartedMain] com.eden.EmphtmlApplication              : Started EmphtmlApplication in 2.726 seconds (process running for 3.607)
+2024-05-09T14:06:37.376+09:00  INFO 107984 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)

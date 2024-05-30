@@ -1,0 +1,161 @@
+2024-05-16 04:07:49 - com.zaxxer.hikari.pool.HikariPool - WARN - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10h39m28s323ms822µs400ns).
+2024-05-16 16:44:00 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 25648 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-16 16:44:00 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 25648 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-16 16:44:00 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-16 16:44:00 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-16 16:44:00 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-16 16:44:00 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-16 16:44:00 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-16 16:44:00 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-16 16:44:01 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-16 16:44:01 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-16 16:44:01 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-16 16:44:01 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-16 16:44:01 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-16 16:44:01 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1260 ms
+2024-05-16 16:44:02 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-16 16:44:02 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-16 16:44:02 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-16 16:44:02 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.619 seconds (process running for 3.606)
+2024-05-16 16:44:02 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.619 seconds (process running for 3.606)
+2024-05-16 16:44:09 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-16 16:44:09 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-16 16:44:09 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 3 ms
+2024-05-16 16:44:15 - c.eden.controller.EmployeeController - INFO - 更新した社員：6,名前:心里uxxx,給料:9998.0,誕生日:Sat Jan 01 00:00:00 JST 2000
+2024-05-16 16:44:15 - c.eden.controller.EmployeeController - INFO - 更新した社員：6,名前:心里uxxx,給料:9998.0,誕生日:Sat Jan 01 00:00:00 JST 2000
+2024-05-16 16:44:15 - c.eden.controller.EmployeeController - INFO - 写真更新するかどうが:false
+2024-05-16 16:44:15 - c.eden.controller.EmployeeController - INFO - 写真更新するかどうが:false
+2024-05-16 16:44:15 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Starting...
+2024-05-16 16:44:15 - com.zaxxer.hikari.pool.HikariPool - INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@117684b
+2024-05-16 16:44:15 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Start completed.
+2024-05-16 16:44:15 - com.eden.dao.EmployeeDao.update - DEBUG - ==>  Preparing: update employee set name=?,salary=?,birthday=?,photo=? where id=?
+2024-05-16 16:44:15 - com.eden.dao.EmployeeDao.update - DEBUG - ==>  Preparing: update employee set name=?,salary=?,birthday=?,photo=? where id=?
+2024-05-16 16:44:15 - com.eden.dao.EmployeeDao.update - DEBUG - ==> Parameters: 心里uxxx(String), 9998.0(Double), 2000-01-01 00:00:00.0(Timestamp), eu_mic-short_chi_mickey_r_fd57c75520240514172339718.jpeg(String), 6(Integer)
+2024-05-16 16:44:15 - com.eden.dao.EmployeeDao.update - DEBUG - ==> Parameters: 心里uxxx(String), 9998.0(Double), 2000-01-01 00:00:00.0(Timestamp), eu_mic-short_chi_mickey_r_fd57c75520240514172339718.jpeg(String), 6(Integer)
+2024-05-16 16:44:15 - com.eden.dao.EmployeeDao.update - DEBUG - <==    Updates: 1
+2024-05-16 16:44:15 - com.eden.dao.EmployeeDao.update - DEBUG - <==    Updates: 1
+2024-05-16 16:44:16 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-16 16:44:16 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-16 16:44:16 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-16 16:44:16 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-16 16:44:16 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-16 16:44:16 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-16 16:44:16 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 9
+2024-05-16 16:44:16 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 9
+2024-05-16 16:44:22 - c.eden.controller.EmployeeController - INFO - 削除の社員ID:6
+2024-05-16 16:44:22 - c.eden.controller.EmployeeController - INFO - 削除の社員ID:6
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.findById - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee where id=?
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.findById - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee where id=?
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.findById - DEBUG - ==> Parameters: 6(Integer)
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.findById - DEBUG - ==> Parameters: 6(Integer)
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.findById - DEBUG - <==      Total: 1
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.findById - DEBUG - <==      Total: 1
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.delete - DEBUG - ==>  Preparing: delete from employee where id=?
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.delete - DEBUG - ==>  Preparing: delete from employee where id=?
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.delete - DEBUG - ==> Parameters: 6(Integer)
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.delete - DEBUG - ==> Parameters: 6(Integer)
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.delete - DEBUG - <==    Updates: 1
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.delete - DEBUG - <==    Updates: 1
+2024-05-16 16:44:22 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-16 16:44:22 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 8
+2024-05-16 16:44:22 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 8
+2024-05-16 16:44:26 - c.eden.controller.EmployeeController - INFO - 削除の社員ID:1
+2024-05-16 16:44:26 - c.eden.controller.EmployeeController - INFO - 削除の社員ID:1
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.findById - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee where id=?
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.findById - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee where id=?
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.findById - DEBUG - ==> Parameters: 1(Integer)
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.findById - DEBUG - ==> Parameters: 1(Integer)
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.findById - DEBUG - <==      Total: 1
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.findById - DEBUG - <==      Total: 1
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.delete - DEBUG - ==>  Preparing: delete from employee where id=?
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.delete - DEBUG - ==>  Preparing: delete from employee where id=?
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.delete - DEBUG - ==> Parameters: 1(Integer)
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.delete - DEBUG - ==> Parameters: 1(Integer)
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.delete - DEBUG - <==    Updates: 1
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.delete - DEBUG - <==    Updates: 1
+2024-05-16 16:44:26 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-16 16:44:26 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 7
+2024-05-16 16:44:26 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 7
+2024-05-16 17:12:02 - o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-16 17:12:02 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-16 17:12:02 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Shutdown initiated...
+2024-05-16 17:12:02 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Shutdown completed.
+2024-05-16 17:12:02 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 25648 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-16 17:12:02 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 25648 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-16 17:12:02 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-16 17:12:02 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-16 17:12:02 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-16 17:12:02 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-16 17:12:03 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-16 17:12:03 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-16 17:12:03 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-16 17:12:03 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-16 17:12:03 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-16 17:12:03 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 880 ms
+2024-05-16 17:42:51 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 2612 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-16 17:42:51 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 2612 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-16 17:42:51 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-16 17:42:51 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-16 17:42:51 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-16 17:42:51 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-16 17:42:51 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-16 17:42:51 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-16 17:42:52 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-16 17:42:52 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-16 17:42:52 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-16 17:42:52 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-16 17:42:52 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-16 17:42:52 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1144 ms
+2024-05-16 17:42:53 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-16 17:42:53 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-16 17:42:53 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-16 17:42:53 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.355 seconds (process running for 3.35)
+2024-05-16 17:42:53 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.355 seconds (process running for 3.35)
+2024-05-16 17:43:02 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-16 17:43:02 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-16 17:43:02 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 1 ms
+2024-05-16 17:43:02 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-16 17:43:02 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-16 17:43:02 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Starting...
+2024-05-16 17:43:02 - com.zaxxer.hikari.pool.HikariPool - INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2d608e49
+2024-05-16 17:43:02 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Start completed.
+2024-05-16 17:43:02 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-16 17:43:02 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-16 17:43:02 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-16 17:43:02 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-16 17:43:02 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 7
+2024-05-16 17:43:02 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 7
+2024-05-16 17:43:21 - c.eden.controller.EmployeeController - INFO - 名前:小刘,最低給料:,最高給料:,開始時間:,完了時間:,
+2024-05-16 17:43:21 - c.eden.controller.EmployeeController - INFO - 名前:小刘,最低給料:,最高給料:,開始時間:,完了時間:,
+2024-05-16 17:43:21 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==>  Preparing: select id, name, salary, birthday, photo from `employee` WHERE name like concat('%', ?, '%')
+2024-05-16 17:43:21 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==>  Preparing: select id, name, salary, birthday, photo from `employee` WHERE name like concat('%', ?, '%')
+2024-05-16 17:43:21 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==> Parameters: 小刘(String)
+2024-05-16 17:43:21 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==> Parameters: 小刘(String)
+2024-05-16 17:43:21 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - <==      Total: 2
+2024-05-16 17:43:21 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - <==      Total: 2
+2024-05-16 17:43:35 - c.eden.controller.EmployeeController - INFO - 名前:小刘,最低給料:０６,最高給料:10000,開始時間:,完了時間:,
+2024-05-16 17:43:35 - c.eden.controller.EmployeeController - INFO - 名前:小刘,最低給料:０６,最高給料:10000,開始時間:,完了時間:,
+2024-05-16 17:43:35 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==>  Preparing: select id, name, salary, birthday, photo from `employee` WHERE name like concat('%', ?, '%') and salary between ? and ?
+2024-05-16 17:43:35 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==>  Preparing: select id, name, salary, birthday, photo from `employee` WHERE name like concat('%', ?, '%') and salary between ? and ?
+2024-05-16 17:43:35 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==> Parameters: 小刘(String), ０６(String), 10000(String)
+2024-05-16 17:43:35 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==> Parameters: 小刘(String), ０６(String), 10000(String)
+2024-05-16 17:43:35 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - <==      Total: 2
+2024-05-16 17:43:35 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - <==      Total: 2
+2024-05-16 17:44:09 - c.eden.controller.EmployeeController - INFO - 名前:小刘,最低給料:０６,最高給料:10000,開始時間:2000-01-01,完了時間:2010-01-10,
+2024-05-16 17:44:09 - c.eden.controller.EmployeeController - INFO - 名前:小刘,最低給料:０６,最高給料:10000,開始時間:2000-01-01,完了時間:2010-01-10,
+2024-05-16 17:44:09 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==>  Preparing: select id, name, salary, birthday, photo from `employee` WHERE name like concat('%', ?, '%') and salary between ? and ? and birthday between ? and ?
+2024-05-16 17:44:09 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==>  Preparing: select id, name, salary, birthday, photo from `employee` WHERE name like concat('%', ?, '%') and salary between ? and ? and birthday between ? and ?
+2024-05-16 17:44:09 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==> Parameters: 小刘(String), ０６(String), 10000(String), 2000-01-01(String), 2010-01-10(String)
+2024-05-16 17:44:09 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - ==> Parameters: 小刘(String), ０６(String), 10000(String), 2000-01-01(String), 2010-01-10(String)
+2024-05-16 17:44:09 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - <==      Total: 2
+2024-05-16 17:44:09 - com.eden.dao.EmployeeDao.searchEmp - DEBUG - <==      Total: 2

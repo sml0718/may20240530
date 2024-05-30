@@ -1,0 +1,26 @@
+2024-05-24 14:46:38 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 18652 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-24 14:46:38 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 18652 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-24 14:46:38 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-24 14:46:38 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-24 14:46:38 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 14:46:38 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-24 14:46:39 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 14:46:39 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-24 14:46:40 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-24 14:46:40 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-24 14:46:40 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-24 14:46:40 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-24 14:46:40 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-24 14:46:40 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1542 ms
+2024-05-24 14:46:41 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-24 14:46:41 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-24 14:46:41 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-24 14:46:41 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 3.002 seconds (process running for 3.988)
+2024-05-24 14:46:41 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 3.002 seconds (process running for 3.988)
+2024-05-24 14:47:22 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-24 14:47:22 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-24 14:47:22 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 17 ms
+2024-05-24 14:47:39 - com.eden.controller.UserController - INFO - ユーザー名:sakura,名前:,パスワード:123,性別:true,検証コード:
+2024-05-24 14:47:39 - com.eden.controller.UserController - INFO - ユーザー名:sakura,名前:,パスワード:123,性別:true,検証コード:
+2024-05-24 14:48:09 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-24 14:48:09 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]

@@ -1,0 +1,394 @@
+2024-05-22 13:16:43 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 35760 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-22 13:16:43 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 35760 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-22 13:16:43 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-22 13:16:43 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-22 13:16:43 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:16:43 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:16:43 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-22 13:16:43 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-22 13:16:45 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-22 13:16:45 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:16:45 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-22 13:16:45 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-22 13:16:45 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-22 13:16:45 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1320 ms
+2024-05-22 13:16:45 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-22 13:16:45 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:16:46 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-22 13:16:46 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.7 seconds (process running for 3.695)
+2024-05-22 13:16:46 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.7 seconds (process running for 3.695)
+2024-05-22 13:17:26 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-22 13:17:26 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-22 13:17:26 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 2 ms
+2024-05-22 13:17:43 - com.eden.controller.UserController - INFO - ユーザー名:sakura,名前:sdfs,パスワード:123,性別:true,検証コード:nav4
+2024-05-22 13:17:43 - com.eden.controller.UserController - INFO - ユーザー名:sakura,名前:sdfs,パスワード:123,性別:true,検証コード:nav4
+2024-05-22 13:17:43 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Starting...
+2024-05-22 13:17:43 - com.zaxxer.hikari.pool.HikariPool - INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@ed0c942
+2024-05-22 13:17:43 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Start completed.
+2024-05-22 13:17:43 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-22 13:17:43 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-22 13:17:43 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: sakura(String)
+2024-05-22 13:17:43 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: sakura(String)
+2024-05-22 13:17:43 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 1
+2024-05-22 13:17:43 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 1
+2024-05-22 13:18:00 - com.eden.controller.UserController - INFO - ユーザー名:yaya,名前:yaya,パスワード:123,性別:true,検証コード:8vuk
+2024-05-22 13:18:00 - com.eden.controller.UserController - INFO - ユーザー名:yaya,名前:yaya,パスワード:123,性別:true,検証コード:8vuk
+2024-05-22 13:18:00 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-22 13:18:00 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-22 13:18:00 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: yaya(String)
+2024-05-22 13:18:00 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: yaya(String)
+2024-05-22 13:18:00 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 0
+2024-05-22 13:18:00 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 0
+2024-05-22 13:18:00 - com.eden.dao.UserDao.save - DEBUG - ==>  Preparing: insert into `user` values(?,?,?,?,?)
+2024-05-22 13:18:00 - com.eden.dao.UserDao.save - DEBUG - ==>  Preparing: insert into `user` values(?,?,?,?,?)
+2024-05-22 13:18:00 - com.eden.dao.UserDao.save - DEBUG - ==> Parameters: null, yaya(String), yaya(String), 202cb962ac59075b964b07152d234b70(String), true(Boolean)
+2024-05-22 13:18:00 - com.eden.dao.UserDao.save - DEBUG - ==> Parameters: null, yaya(String), yaya(String), 202cb962ac59075b964b07152d234b70(String), true(Boolean)
+2024-05-22 13:18:00 - com.eden.dao.UserDao.save - DEBUG - <==    Updates: 1
+2024-05-22 13:18:00 - com.eden.dao.UserDao.save - DEBUG - <==    Updates: 1
+2024-05-22 13:18:01 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-22 13:18:01 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-22 13:18:01 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-22 13:18:01 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-22 13:18:01 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: sakura(String)
+2024-05-22 13:18:01 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: sakura(String)
+2024-05-22 13:18:01 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 1
+2024-05-22 13:18:01 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 1
+2024-05-22 13:18:02 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-22 13:18:02 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-22 13:18:02 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-22 13:18:02 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-22 13:18:02 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-22 13:18:02 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-22 13:18:02 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 8
+2024-05-22 13:18:02 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 8
+2024-05-22 13:18:12 - c.eden.controller.EmployeeController - INFO - 名前:小刘,給料:20.0,誕生日:Sat Jan 01 00:00:00 JST 2000
+2024-05-22 13:18:12 - c.eden.controller.EmployeeController - INFO - 名前:小刘,給料:20.0,誕生日:Sat Jan 01 00:00:00 JST 2000
+2024-05-22 13:18:12 - c.eden.controller.EmployeeController - INFO - ファイルの名:,ファイルのサイズ：0,アップロードあど:C:\pleiades\2023-12\workspace\emphtml\upload
+2024-05-22 13:18:12 - c.eden.controller.EmployeeController - INFO - ファイルの名:,ファイルのサイズ：0,アップロードあど:C:\pleiades\2023-12\workspace\emphtml\upload
+2024-05-22 13:18:12 - o.a.c.c.C.[.[.[.[dispatcherServlet] - ERROR - Servlet.service() for servlet [dispatcherServlet] in context with path [/empthymeleaf] threw exception [Request processing failed: java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0] with root cause
+java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4606)
+	at java.base/java.lang.String.substring(String.java:2709)
+	at com.eden.controller.EmployeeController.uploadPhoto(EmployeeController.java:90)
+	at com.eden.controller.EmployeeController.save(EmployeeController.java:126)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:768)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at com.eden.aop.LogAspect.recordLog(LogAspect.java:57)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:768)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:768)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:720)
+	at com.eden.controller.EmployeeController$$SpringCGLIB$$0.save(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-05-22 13:29:27 - com.zaxxer.hikari.pool.HikariPool - WARN - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m43s791ms277µs300ns).
+2024-05-22 13:35:46 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-22 13:35:46 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:35:46 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Shutdown initiated...
+2024-05-22 13:35:46 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Shutdown completed.
+2024-05-22 13:35:49 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 9676 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-22 13:35:49 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 9676 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-22 13:35:49 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-22 13:35:49 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-22 13:35:49 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:35:49 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:35:49 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-22 13:35:49 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-22 13:35:50 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-22 13:35:50 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:35:50 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-22 13:35:50 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-22 13:35:50 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-22 13:35:50 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1570 ms
+2024-05-22 13:35:51 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-22 13:35:51 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:35:51 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-22 13:35:51 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.977 seconds (process running for 3.959)
+2024-05-22 13:35:51 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.977 seconds (process running for 3.959)
+2024-05-22 13:35:51 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-22 13:35:51 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-22 13:35:51 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 1 ms
+2024-05-22 13:35:57 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-22 13:35:57 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-22 13:35:57 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Starting...
+2024-05-22 13:35:57 - com.zaxxer.hikari.pool.HikariPool - INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3805537
+2024-05-22 13:35:57 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Start completed.
+2024-05-22 13:35:57 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-22 13:35:57 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-22 13:35:57 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: sakura(String)
+2024-05-22 13:35:57 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: sakura(String)
+2024-05-22 13:35:57 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 1
+2024-05-22 13:35:57 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 1
+2024-05-22 13:35:57 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-22 13:35:57 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-22 13:35:57 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-22 13:35:57 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-22 13:35:57 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-22 13:35:57 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-22 13:35:57 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 8
+2024-05-22 13:35:57 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 8
+2024-05-22 13:36:04 - c.eden.controller.EmployeeController - INFO - 名前:小刘,給料:20.0,誕生日:Sat Jan 01 00:00:00 JST 2000
+2024-05-22 13:36:04 - c.eden.controller.EmployeeController - INFO - 名前:小刘,給料:20.0,誕生日:Sat Jan 01 00:00:00 JST 2000
+2024-05-22 13:36:04 - c.eden.controller.EmployeeController - INFO - ファイルの名:,ファイルのサイズ：0,アップロードあど:C:\pleiades\2023-12\workspace\emphtml\upload
+2024-05-22 13:36:04 - c.eden.controller.EmployeeController - INFO - ファイルの名:,ファイルのサイズ：0,アップロードあど:C:\pleiades\2023-12\workspace\emphtml\upload
+2024-05-22 13:36:04 - o.a.c.c.C.[.[.[.[dispatcherServlet] - ERROR - Servlet.service() for servlet [dispatcherServlet] in context with path [/empthymeleaf] threw exception [Request processing failed: java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0] with root cause
+java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4606)
+	at java.base/java.lang.String.substring(String.java:2709)
+	at com.eden.controller.EmployeeController.uploadPhoto(EmployeeController.java:90)
+	at com.eden.controller.EmployeeController.save(EmployeeController.java:126)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:354)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:768)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89)
+	at com.eden.aop.LogAspect.recordLog(LogAspect.java:57)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:768)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:768)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:720)
+	at com.eden.controller.EmployeeController$$SpringCGLIB$$0.save(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:175)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:150)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1736)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-05-22 13:40:41 - o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - INFO - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-22 13:40:41 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:40:41 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Shutdown initiated...
+2024-05-22 13:40:41 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Shutdown completed.
+2024-05-22 13:40:41 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 9676 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-22 13:40:41 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 9676 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-22 13:40:41 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-22 13:40:41 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-22 13:40:41 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:40:41 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:40:42 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-22 13:40:42 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:40:42 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-22 13:40:42 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-22 13:40:42 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-22 13:40:42 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 907 ms
+2024-05-22 13:40:43 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-22 13:40:43 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:40:43 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-22 13:40:43 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 1.253 seconds (process running for 295.32)
+2024-05-22 13:40:43 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 1.253 seconds (process running for 295.32)
+2024-05-22 13:40:43 - o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - INFO - Condition evaluation unchanged
+2024-05-22 13:40:51 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-22 13:40:51 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:40:54 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 14820 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-22 13:40:54 - com.eden.EmphtmlApplication - INFO - Starting EmphtmlApplication using Java 17.0.10 with PID 14820 (C:\pleiades\2023-12\workspace\emphtml\target\classes started by 59220 in C:\pleiades\2023-12\workspace\emphtml)
+2024-05-22 13:40:54 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-22 13:40:54 - com.eden.EmphtmlApplication - DEBUG - Running with Spring Boot v3.2.5, Spring v6.1.6
+2024-05-22 13:40:54 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:40:54 - com.eden.EmphtmlApplication - INFO - No active profile set, falling back to 1 default profile: "default"
+2024-05-22 13:40:54 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-22 13:40:54 - o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - INFO - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-22 13:40:55 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat initialized with port 20252 (http)
+2024-05-22 13:40:55 - o.a.coyote.http11.Http11NioProtocol - INFO - Initializing ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:40:55 - o.a.catalina.core.StandardService - INFO - Starting service [Tomcat]
+2024-05-22 13:40:55 - o.a.catalina.core.StandardEngine - INFO - Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-22 13:40:55 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring embedded WebApplicationContext
+2024-05-22 13:40:55 - o.s.b.w.s.c.ServletWebServerApplicationContext - INFO - Root WebApplicationContext: initialization completed in 1297 ms
+2024-05-22 13:40:56 - o.s.b.d.a.OptionalLiveReloadServer - INFO - LiveReload server is running on port 35729
+2024-05-22 13:40:56 - o.a.coyote.http11.Http11NioProtocol - INFO - Starting ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:40:56 - o.s.b.w.e.tomcat.TomcatWebServer - INFO - Tomcat started on port 20252 (http) with context path '/empthymeleaf'
+2024-05-22 13:40:56 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.662 seconds (process running for 3.591)
+2024-05-22 13:40:56 - com.eden.EmphtmlApplication - INFO - Started EmphtmlApplication in 2.662 seconds (process running for 3.591)
+2024-05-22 13:41:23 - o.a.c.c.C.[.[.[/empthymeleaf] - INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-22 13:41:23 - o.s.web.servlet.DispatcherServlet - INFO - Initializing Servlet 'dispatcherServlet'
+2024-05-22 13:41:23 - o.s.web.servlet.DispatcherServlet - INFO - Completed initialization in 0 ms
+2024-05-22 13:42:15 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-22 13:42:15 - com.eden.controller.UserController - INFO - ユーザー名:sakura,パスワード:123
+2024-05-22 13:42:15 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Starting...
+2024-05-22 13:42:15 - com.zaxxer.hikari.pool.HikariPool - INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4daab239
+2024-05-22 13:42:15 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Start completed.
+2024-05-22 13:42:15 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-22 13:42:15 - com.eden.dao.UserDao.findByUserName - DEBUG - ==>  Preparing: select id,username,realname,password,gender from `user` where username=?
+2024-05-22 13:42:15 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: sakura(String)
+2024-05-22 13:42:15 - com.eden.dao.UserDao.findByUserName - DEBUG - ==> Parameters: sakura(String)
+2024-05-22 13:42:16 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 1
+2024-05-22 13:42:16 - com.eden.dao.UserDao.findByUserName - DEBUG - <==      Total: 1
+2024-05-22 13:43:28 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-22 13:43:28 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-22 13:43:28 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-22 13:43:28 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-22 13:43:28 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-22 13:43:28 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-22 13:43:28 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 8
+2024-05-22 13:43:28 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 8
+2024-05-22 13:46:13 - c.eden.controller.EmployeeController - INFO - 名前:心里,給料:9998.0,誕生日:Wed Jan 05 00:00:00 JST 2000
+2024-05-22 13:46:13 - c.eden.controller.EmployeeController - INFO - 名前:心里,給料:9998.0,誕生日:Wed Jan 05 00:00:00 JST 2000
+2024-05-22 13:46:13 - c.eden.controller.EmployeeController - INFO - ファイルの名:eu_mic-short_chi_mickey_r_fd57c755.jpeg,ファイルのサイズ：52367,アップロードあど:C:\pleiades\2023-12\workspace\emphtml\upload
+2024-05-22 13:46:13 - c.eden.controller.EmployeeController - INFO - ファイルの名:eu_mic-short_chi_mickey_r_fd57c755.jpeg,ファイルのサイズ：52367,アップロードあど:C:\pleiades\2023-12\workspace\emphtml\upload
+2024-05-22 13:46:13 - c.eden.controller.EmployeeController - INFO - 新しいファイルの名:eu_mic-short_chi_mickey_r_fd57c75520240522134613634.jpeg
+2024-05-22 13:46:13 - c.eden.controller.EmployeeController - INFO - 新しいファイルの名:eu_mic-short_chi_mickey_r_fd57c75520240522134613634.jpeg
+2024-05-22 13:46:13 - c.eden.controller.EmployeeController - INFO - 新しいファイルの名:eu_mic-short_chi_mickey_r_fd57c75520240522134613634.jpeg
+2024-05-22 13:46:13 - c.eden.controller.EmployeeController - INFO - 新しいファイルの名:eu_mic-short_chi_mickey_r_fd57c75520240522134613634.jpeg
+2024-05-22 13:46:13 - com.eden.dao.EmployeeDao.save - DEBUG - ==>  Preparing: insert into employee values(?,?,?,?,?)
+2024-05-22 13:46:13 - com.eden.dao.EmployeeDao.save - DEBUG - ==>  Preparing: insert into employee values(?,?,?,?,?)
+2024-05-22 13:46:13 - com.eden.dao.EmployeeDao.save - DEBUG - ==> Parameters: null, 心里(String), 9998.0(Double), 2000-01-05 00:00:00.0(Timestamp), eu_mic-short_chi_mickey_r_fd57c75520240522134613634.jpeg(String)
+2024-05-22 13:46:13 - com.eden.dao.EmployeeDao.save - DEBUG - ==> Parameters: null, 心里(String), 9998.0(Double), 2000-01-05 00:00:00.0(Timestamp), eu_mic-short_chi_mickey_r_fd57c75520240522134613634.jpeg(String)
+2024-05-22 13:46:13 - com.eden.dao.EmployeeDao.save - DEBUG - <==    Updates: 1
+2024-05-22 13:46:13 - com.eden.dao.EmployeeDao.save - DEBUG - <==    Updates: 1
+2024-05-22 13:46:13 - com.eden.aop.LogAspect - INFO - AOP操作のレコード:1,2024-05-22T13:46:13.632800800,com.eden.controller.EmployeeController,save,[Employee(id=null, name=心里, salary=9998.0, birthday=Wed Jan 05 00:00:00 JST 2000, photo=null), org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@5fd40b7a],redirect:/employee/lists,18
+2024-05-22 13:46:13 - com.eden.aop.LogAspect - INFO - AOP操作のレコード:1,2024-05-22T13:46:13.632800800,com.eden.controller.EmployeeController,save,[Employee(id=null, name=心里, salary=9998.0, birthday=Wed Jan 05 00:00:00 JST 2000, photo=null), org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@5fd40b7a],redirect:/employee/lists,18
+2024-05-22 13:46:20 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-22 13:46:20 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-22 13:46:20 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-22 13:46:20 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-22 13:46:20 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-22 13:46:20 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-22 13:46:20 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 9
+2024-05-22 13:46:20 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 9
+2024-05-22 13:48:28 - c.eden.controller.EmployeeController - INFO - 名前:心里1,給料:9998.0,誕生日:Sat Jan 08 00:00:00 JST 2000
+2024-05-22 13:48:28 - c.eden.controller.EmployeeController - INFO - 名前:心里1,給料:9998.0,誕生日:Sat Jan 08 00:00:00 JST 2000
+2024-05-22 13:48:28 - c.eden.controller.EmployeeController - INFO - ファイルの名:eu_mic-short_chi_mickey_r_fd57c755.jpeg,ファイルのサイズ：52367,アップロードあど:C:\pleiades\2023-12\workspace\emphtml\upload
+2024-05-22 13:48:28 - c.eden.controller.EmployeeController - INFO - ファイルの名:eu_mic-short_chi_mickey_r_fd57c755.jpeg,ファイルのサイズ：52367,アップロードあど:C:\pleiades\2023-12\workspace\emphtml\upload
+2024-05-22 13:48:28 - c.eden.controller.EmployeeController - INFO - 新しいファイルの名:eu_mic-short_chi_mickey_r_fd57c75520240522134828663.jpeg
+2024-05-22 13:48:28 - c.eden.controller.EmployeeController - INFO - 新しいファイルの名:eu_mic-short_chi_mickey_r_fd57c75520240522134828663.jpeg
+2024-05-22 13:48:28 - c.eden.controller.EmployeeController - INFO - 新しいファイルの名:eu_mic-short_chi_mickey_r_fd57c75520240522134828663.jpeg
+2024-05-22 13:48:28 - c.eden.controller.EmployeeController - INFO - 新しいファイルの名:eu_mic-short_chi_mickey_r_fd57c75520240522134828663.jpeg
+2024-05-22 13:48:28 - com.eden.dao.EmployeeDao.save - DEBUG - ==>  Preparing: insert into employee values(?,?,?,?,?)
+2024-05-22 13:48:28 - com.eden.dao.EmployeeDao.save - DEBUG - ==>  Preparing: insert into employee values(?,?,?,?,?)
+2024-05-22 13:48:28 - com.eden.dao.EmployeeDao.save - DEBUG - ==> Parameters: null, 心里1(String), 9998.0(Double), 2000-01-08 00:00:00.0(Timestamp), eu_mic-short_chi_mickey_r_fd57c75520240522134828663.jpeg(String)
+2024-05-22 13:48:28 - com.eden.dao.EmployeeDao.save - DEBUG - ==> Parameters: null, 心里1(String), 9998.0(Double), 2000-01-08 00:00:00.0(Timestamp), eu_mic-short_chi_mickey_r_fd57c75520240522134828663.jpeg(String)
+2024-05-22 13:48:28 - com.eden.dao.EmployeeDao.save - DEBUG - <==    Updates: 1
+2024-05-22 13:48:28 - com.eden.dao.EmployeeDao.save - DEBUG - <==    Updates: 1
+2024-05-22 13:48:28 - com.eden.aop.LogAspect - INFO - AOP操作のレコード:1,2024-05-22T13:48:28.661407800,com.eden.controller.EmployeeController,save,[Employee(id=null, name=心里1, salary=9998.0, birthday=Sat Jan 08 00:00:00 JST 2000, photo=null), org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2027596e],redirect:/employee/lists,17
+2024-05-22 13:48:28 - com.eden.aop.LogAspect - INFO - AOP操作のレコード:1,2024-05-22T13:48:28.661407800,com.eden.controller.EmployeeController,save,[Employee(id=null, name=心里1, salary=9998.0, birthday=Sat Jan 08 00:00:00 JST 2000, photo=null), org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@2027596e],redirect:/employee/lists,17
+2024-05-22 13:48:32 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-22 13:48:32 - c.eden.controller.EmployeeController - INFO - 全部社員を照会する
+2024-05-22 13:48:32 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-22 13:48:32 - com.eden.dao.EmployeeDao.lists - DEBUG - ==>  Preparing: select id,name,salary,birthday,photo from employee
+2024-05-22 13:48:32 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-22 13:48:32 - com.eden.dao.EmployeeDao.lists - DEBUG - ==> Parameters: 
+2024-05-22 13:48:32 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 10
+2024-05-22 13:48:32 - com.eden.dao.EmployeeDao.lists - DEBUG - <==      Total: 10
+2024-05-22 13:49:38 - o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - INFO - Application shutdown requested.
+2024-05-22 13:49:38 - o.a.coyote.http11.Http11NioProtocol - INFO - Stopping ProtocolHandler ["http-nio-20252"]
+2024-05-22 13:49:38 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Shutdown initiated...
+2024-05-22 13:49:38 - com.zaxxer.hikari.HikariDataSource - INFO - HikariPool-1 - Shutdown completed.
